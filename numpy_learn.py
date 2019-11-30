@@ -6,3 +6,5 @@ def fun():
 fun()
 
 l = ["Hello","Workd" ]
+
+print("Hello")
