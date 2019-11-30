@@ -27,3 +27,6 @@ print("Change on server")
 print("Changes on server again")
 
 print("Hello fuck")
+
+
+print("Lets pull")
