@@ -4,3 +4,5 @@ def fun():
 
 
 fun()
+
+l = ["Hello","Workd" ]
