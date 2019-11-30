@@ -4,6 +4,7 @@ def fun():
 
 def fun2():
     print("Hello again")
+
 fun()
 
 l = ["Hello","Workd" ]
@@ -11,3 +12,5 @@ l = ["Hello","Workd" ]
 print("Hello")
 
 print("Dummy")
+
+print("Dummy 2")
