@@ -22,4 +22,8 @@ print("Android changes")
 print("In Android branch")
 print("Change in master")
 print("Again change in android_branch")
+
+print("Change on server")
+print("Changes on server again")
+
 print("Hello fuck")
